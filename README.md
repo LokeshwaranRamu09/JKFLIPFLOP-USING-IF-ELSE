@@ -88,6 +88,9 @@ module JK_FF(q,qb,j,k,clock);
 
 # OUTPUT WAVEFORM
 
+
+
+
 ![Screenshot 2024-12-12 084438](https://github.com/user-attachments/assets/e5755a65-5051-4a3a-8571-df2859467063)
 
 
